@@ -1,0 +1,62 @@
+body{
+    background-color:#023047 ;
+    line-height: 30px; 
+}
+h1{
+  display: inline;
+}
+h1.rlogo{
+    position: relative;
+    left: 550px;
+    top: 15px;
+}
+h1{
+    color: white;
+}
+p{
+    font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;;
+    color: white;
+    font-size: larger;
+}
+h3{
+    font-style: italic;
+    font-size:30px;
+    color: white;
+}
+h2{
+    display: inline;
+}
+h2.relative1{
+  position: relative;
+  left:150px;
+}
+h2.relative2{
+  position: relative;
+  left:350px;
+}
+.a{
+  color:wheat;  
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: wheat;
+  }
+  th{
+    color: wheat;
+    border: 1px solid ;
+    text-align: left;
+    padding: 8px;
+  }
+  td {
+    border: 1px solid ;
+    text-align: left;
+    padding: 8px;
+
+  }
+.t1{
+  color:white;
+  width: fit-content;
+  text-align: left;
+}
